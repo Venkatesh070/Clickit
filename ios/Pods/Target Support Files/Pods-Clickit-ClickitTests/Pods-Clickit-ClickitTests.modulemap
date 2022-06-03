@@ -1,0 +1,6 @@
+module Pods_Clickit_ClickitTests {
+  umbrella header "Pods-Clickit-ClickitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clickit.iml" filepath="$PROJECT_DIR$/.idea/modules/Clickit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Clickit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Clickit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/435050868/Clickit.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/435050868/Clickit.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-20619275/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-20619275/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
